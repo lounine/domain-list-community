@@ -2,6 +2,8 @@
 # https://icannwiki.org/Country_code_top-level_domain
 # https://www.101domain.com/branded_domains.htm
 
+include:google-registry-tld
+
 # Used by U.S. federal government
 gov
 # Used by U.S. DoD.
@@ -510,6 +512,7 @@ lgbt # Lesbian, Gay, Bisexual, Transgender
 livestrong # Lance Armstrong Foundation
 maif # Mutuelle Assurance Instituteur France (MAIF)
 mattel # Mattel Sites, Inc.
+moe # Japanese slang
 persiangulf # persian gulf
 poker # Poker
 sas # SAS institute
